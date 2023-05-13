@@ -1,3 +1,4 @@
+# https://www.acmicpc.net/submit/2738
 
 ll = []
 rl = []
